@@ -7,6 +7,7 @@ Context
 Deskdrop is an internal communications platform developed by CI&T, focused in companies using Google G Suite. Among other features, this platform allows companies employees to share relevant articles with their peers, and collaborate around them.
 
 Content
+
 This rich and rare dataset contains a real sample of 12 months logs (Mar. 2016 - Feb. 2017) from CI&T's Internal Communication platform (DeskDrop).
 I contains about 73k logged users interactions on more than 3k public articles shared in the platform.
 
