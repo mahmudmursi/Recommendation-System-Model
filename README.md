@@ -1,7 +1,9 @@
 # Recommendation-System-Model
 
-About Dataset
+# About Dataset
+
 Context
+
 Deskdrop is an internal communications platform developed by CI&T, focused in companies using Google G Suite. Among other features, this platform allows companies employees to share relevant articles with their peers, and collaborate around them.
 
 Content
